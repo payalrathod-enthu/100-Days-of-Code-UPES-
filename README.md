@@ -12,8 +12,11 @@ This repository contains my verified solutions for coding questions as part of t
 - **Day 3**
 - Q5:- Write a program to convert temperature from Celsius to Fahrenheit.
 - Q6:- Write a program to swap two numbers using a third variable.
+- **Day 4**
+- Q7:- Write a program to swap two numbers without using a third variable.
+- Q8:- Write a program to find and display the sum of the first n natural numbers
          
 
 ## Progress
-✅ Day 3 completed  
-⬜ Day 4 in progress  
+✅ Day 4 completed  
+⬜ Day 5 in progress  
