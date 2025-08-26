@@ -15,8 +15,14 @@ This repository contains my verified solutions for coding questions as part of t
 - **Day 4**
 - Q7:- Write a program to swap two numbers without using a third variable.
 - Q8:- Write a program to find and display the sum of the first n natural numbers
+- **Day 5**
+- Q9:- Write a program to calculate simple and compound interest for given principal, rate, and time.
+- Q10:- Write a program to input time in seconds and convert it to hours:minutes:seconds format.
+- **Day 6**
+- Q11:- Write a program to input an integer and check whether it is even or odd using if–else.
+- Q12:- Write a program to input an integer and check whether it is positive, negative or zero using nested if–else.
          
 
 ## Progress
-✅ Day 4 completed  
-⬜ Day 5 in progress  
+✅ Day 6 completed  
+⬜ Day 7 in progress  
