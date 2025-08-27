@@ -21,8 +21,11 @@ This repository contains my verified solutions for coding questions as part of t
 - **Day 6**
 - Q11:- Write a program to input an integer and check whether it is even or odd using if–else.
 - Q12:- Write a program to input an integer and check whether it is positive, negative or zero using nested if–else.
+- **Day 7**
+- Q13:- Write a program to input a year and check whether it is a leap year or not using conditional statements.
+- Q14:- Write a program to input a character and check whether it is a vowel or consonant using if–else.
          
 
 ## Progress
-✅ Day 6 completed  
-⬜ Day 7 in progress  
+✅ Day 7 completed  
+⬜ Day 8 in progress  
