@@ -24,8 +24,11 @@ This repository contains my verified solutions for coding questions as part of t
 - **Day 7**
 - Q13:- Write a program to input a year and check whether it is a leap year or not using conditional statements.
 - Q14:- Write a program to input a character and check whether it is a vowel or consonant using if–else.
+- **Day 8**
+- Q15:- Write a program to input a character and check whether it is an uppercase alphabet, lowercase alphabet, digit, or special character.
+- Q16:- Write a program to input three numbers and find the largest among them using if–else.
          
 
 ## Progress
-✅ Day 7 completed  
-⬜ Day 8 in progress  
+✅ Day 8 completed  
+⬜ Day 9 in progress  
