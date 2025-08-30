@@ -27,8 +27,14 @@ This repository contains my verified solutions for coding questions as part of t
 - **Day 8**
 - Q15:- Write a program to input a character and check whether it is an uppercase alphabet, lowercase alphabet, digit, or special character.
 - Q16:- Write a program to input three numbers and find the largest among them using if–else.
+- **Day 9**
+- Write a program to find the roots of a quadratic equation and categorize them.
+- Write a program to assign grades based on a percentage input.
+- **Day 10**
+- Write a program to classify a triangle as Equilateral, Isosceles, or Scalene based on its side lengths.
+- Write a program to display the day of the week based on a number (1–7) using switch-case.
          
 
 ## Progress
-✅ Day 8 completed  
-⬜ Day 9 in progress  
+✅ Day 10 completed  
+⬜ Day 11 in progress  
