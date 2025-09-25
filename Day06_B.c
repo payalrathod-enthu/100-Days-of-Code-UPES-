@@ -1,4 +1,4 @@
-//Q: Write a program to input an integer and check whether it is positive, negative, or zero using nested if–else.
+//Q: Write a program to input an integer and check whether it is positive, negative, or zero using nested ifâ€“else.
 
 
 #include <stdio.h>
