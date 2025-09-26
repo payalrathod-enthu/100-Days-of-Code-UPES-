@@ -1,5 +1,5 @@
 //Q: Write a program to calculate the factorial of a number.
-  // Example: 5! = 5 × 4 × 3 × 2 × 1 = 120
+  // Example: 5! = 5 Ã— 4 Ã— 3 Ã— 2 Ã— 1 = 120
 
 #include <stdio.h>
 
