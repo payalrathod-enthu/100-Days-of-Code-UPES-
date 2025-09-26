@@ -1,5 +1,5 @@
 //Write a program to print the product of even numbers from 1 to n.
-   //Example: if n = 6 ? 2 × 4 × 6 = 48
+   //Example: if n = 6 ? 2 Ã— 4 Ã— 6 = 48
 
 #include <stdio.h>
 
